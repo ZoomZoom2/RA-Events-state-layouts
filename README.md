@@ -1,10 +1,10 @@
-# 2. Домашнее задание к лекции «События и состояния»
+# Домашнее задание к лекции «События и состояния»
 
 [![Build status](https://ci.appveyor.com/api/projects/status/3s5c9mx2dkfx2q6m?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ra-events-state-layouts) [[GithubPages](https://zoomzoom2.github.io/RA-Events-state-layouts)]
 
 ---
 
-## 2.2 Расположение товаров
+Расположение товаров
 
 ===
 
